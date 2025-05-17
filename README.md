@@ -1,19 +1,60 @@
 <h1 align="center">Hi 👋, I'm Amaury</h1>
 <h3 align="center">A passionate fullstack bockchain developper</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m-amaury&label=Profile%20views&color=0e75b6&style=flat" alt="m-amaury" /> </p>
 
-- 🌱 I’m currently learning **blockchain development**
+# Amaury M 🦉
+**`Blockchain Backend engineer`**
 
-<h3 align="left">Connect with me:</h3>
+I’m a dedicated blockchain engineering apprentice with a passion for decentralized technologies and innovation. Currently pursuing a Master of Engineering in Blockchain Technology at ESILV - Leonard de Vinci Graduate School of Engineering, I have three years of hands-on experience in blockchain development. I’m excited to learn and contribute to projects that shape the future of technology.
+
+## 🏆 Achievements  
+- 🥈 2nd place at the **XRPL & Cryptography Hackathon** at **University of Roma Tre**, showcasing innovative solutions in decentralized identity and blockchain.
+- 🥈 2nd place at the **PBW Hackhathon** in **XRPL Track**, building an mcp server for XRPL.
+- 🥈 2nd place at the **XRPL Blockchain for Impact** in **Gamified Social Impact Track**, building a gamified application for good, KindQuest.
+
+## 📱 Connect with Me
 <p align="left">
+<a href="https://github.com/M-Amaury?tab=followers">
+        <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/M-Amaury?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+    </a>
+    <a href="https://github.com/M-Amaury?tab=repositories&sort=stargazers"">
+        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/M-Amaury?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+    </a>
+    <a href="mailto:amaury@xrpl-commons.org">
+        <img alt="email" title="Send me an email" src="https://img.shields.io/badge/Email-me-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 🌟 My Mission
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-amaury&show_icons=true&locale=en&layout=compact" alt="m-amaury" /></p>
+To leverage blockchain technology to create secure, transparent, and efficient solutions that empower individuals and organizations.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-amaury&show_icons=true&locale=en" alt="m-amaury" /></p>
+## 🛠️ Technologies & Tools
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-amaury&" alt="m-amaury" /></p>
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Vue" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+<img align="left" alt="Nuxt" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtsj-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Solidity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-plain.svg" />
+<img align="left" alt="Hardhat" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hardhat/hardhat-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="left" alt="Mongodb" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+
+<br />
+
+
+## 🌱 Currently Learning
+
+- Advanced smart contract development
+-	DeFi and NFT ecosystems
+- Blockchain security and auditing techniques
+-	Cross-chain technology and interoperability
+-	Blockchain infrastructure
+
+
+### 📊 Stats
+
+![Amaury's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-Amaury&show_icons=true&theme=monokai)
